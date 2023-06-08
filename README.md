@@ -1,5 +1,4 @@
 # Astronauts
-![image]
 ![image](https://github.com/dharakhubchandani/Astronaut/assets/124633398/d0dde222-817b-4061-b823-fa2c268bd866)
 
 
